@@ -1,0 +1,3 @@
+[submodule "reparo-sub-sample"]
+	path = reparo-sub-sample
+	url = https://github.com/eunmin/reparo-sub-sample.git
